@@ -27,7 +27,7 @@ Since, "Correlation does not always imply causation", a Causal Analysis would be
 1. Framing the Problem
 2. Data Acquisition
 3. Data Exploration:
-  • Data type of columns
+<br>• Data type of columns
   • Null values
   • Outliers
   • Distribution in attributes - continous and categorical

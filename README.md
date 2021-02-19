@@ -28,18 +28,17 @@ Since, "Correlation does not always imply causation", a Causal Analysis would be
 2. Data Acquisition
 3. Data Exploration:
 <br>• Data type of columns
-  • Null values
-  • Outliers
-  • Distribution in attributes - continous and categorical
-  • Correlation Plot
+<br>• Null values
+<br>• Outliers
+<br>• Distribution in attributes - continous and categorical
+<br>• Correlation Plot
 4. Data Preparation
 5. Modelling
-  • Training Models and Selection - Linear Regression and Random Forest
+<br>• Training Models and Selection - Linear Regression and Random Forest
 6. Model Fine-Tuning
 7. Feature Importance Check
 8. Model - Results and Conclusion
 9. Causal Inference (using DoWhy)
-  • Treatment Variables
-  • Target Variable
+<br>• Treatment Variables
+<br>• Target Variable
 10. Final Results and Causal Inference
-  
